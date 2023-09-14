@@ -16,7 +16,7 @@
 
 ## Execução do projeto
 
-- Estando no terminal do vscode na raiz do projeto execute o comando: npm run dev .
+- Estando no terminal do vscode na raiz do projeto execute o comando: npm run dev , para assim o projeto seja executado.
 
 ## Endpoint para o navegador
 
