@@ -26,7 +26,7 @@ export const FormVendas = () => {
                 setValorVenda('');
             }
         } catch(error) {
-            alert(`O vendedor com o ${idVendedor} não existe!`);
+            alert(`O vendedor com o ID ${idVendedor} não existe!`);
             return;
         }
     }
